@@ -1,0 +1,3 @@
+(1) Generar un metodo nuevo en la clase persona que se llame "devolverEdad";
+
+(2) Generar un metodo nuevo que se llame "devolverCurso";
